@@ -34,7 +34,7 @@ The client side includes gathering of personal data (firstname, lastname, drivin
 
 *Firm registration process:* <br/>
  1. Firm details <br/>
- ![image](https://user-images.githubusercontent.com/92984942/176544989-a95d2b34-45ea-4687-a24c-8caa32137150.png)
+ ![img](https://user-images.githubusercontent.com/92984942/176547285-30b842f1-b6ed-4372-adbd-96ef91305231.png)
 <br/>
 
  2. Car details <br/>
