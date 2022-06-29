@@ -19,33 +19,33 @@ After completing all the steps, the firm will be registered and available in the
 The client side includes gathering of personal data (firstname, lastname, driving license details etc. ) - because the client must have an account and must be logged in in order to rent or drop cars. Furthermore, the client has to introduce the location from where he wants to rent the car and where he wants to drop it. Following this process, an immediate response will be given regarding the availability of the car and the steps to be followed in the case of non-availability of the car. Another option is making use of the current rented cars. Thus, the client may take a look around the rented cars at the moment. The customer may also drop a car or more. <br/><br/>
 
  
-***Menus***:<br/>
-Main Menu: <br/>
+***Menus***:<br/><br/>
+*Main Menu:* <br/>
 ![image](https://user-images.githubusercontent.com/92984942/176542706-4f157ed1-3dee-4957-a495-e0ffe55e0827.png)
 <br/><br/>
 
-Admin menu: <br/>
+*Admin menu:* <br/>
 ![image](https://user-images.githubusercontent.com/92984942/176543558-5baea659-ba42-49c6-8c45-ecb749ba2fb3.png)
 <br/><br/>
 
-Company registration menu: <br/>
+*Company registration menu:* <br/>
 ![image](https://user-images.githubusercontent.com/92984942/176543736-b1ba8a79-fd5d-4671-9738-c92fd7ca8244.png)
 <br/><br/>
 
-Firm registration process: <br/>
- - Firm details
- ![image](https://user-images.githubusercontent.com/92984942/176544989-a95d2b34-45ea-4687-a24c-8caa32137150.png)
+*Firm registration process:* <br/>
+ - Firm details <br/>
+ - ![image](https://user-images.githubusercontent.com/92984942/176544989-a95d2b34-45ea-4687-a24c-8caa32137150.png)
 <br/>
 
- - Car details
- ![image](https://user-images.githubusercontent.com/92984942/176545380-4976d1ef-d0a4-4948-a313-ad219ef2bcdf.png)
+ - Car details <br/>
+ - ![image](https://user-images.githubusercontent.com/92984942/176545380-4976d1ef-d0a4-4948-a313-ad219ef2bcdf.png)
 <br/>
 
-Client menu: <br/>
+*Client menu:* <br/>
 ![image](https://user-images.githubusercontent.com/92984942/176546010-b426156d-5fb2-4213-b6a5-e0835e91b78e.png)
 <br/><br/>
 
-Account menu: <br/>
+*Account menu:* <br/>
 ![image](https://user-images.githubusercontent.com/92984942/176546310-b973fc68-60d4-4cdc-aca6-05e66a0b096f.png)
 <br/><br/>
 
