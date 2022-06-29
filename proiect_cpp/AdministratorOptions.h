@@ -43,7 +43,7 @@ void ChangePassword()
 	std::ofstream fout("admin.txt");
 
 	Sleep(0.16); system("cls");
-	std::cout << "\tIEnter password: ";
+	std::cout << "\tEnter password: ";
 	std::string newPassword1; std::cin >> newPassword1;
 	std::cout << "\tEnter password again: ";
 	std::string newPassword2; std::cin >> newPassword2;
@@ -51,14 +51,14 @@ void ChangePassword()
 	if (newPassword1 == newPassword2)
 	{
 		std::cout << "\tAre you sure you want to change the password?\n";
-		std::cout << "\t[1] Yes\n\t[2] No";
+		std::cout << "\t[1] Yes\n\t[2] No\n";
 		std::string rez; std::cout << "\tYour option: "; std::cin >> rez;
 		
 		bool check = CheckRez(rez);
 
 		if (check == 0)
 		{
-			std::cout << "Option is not valid, reinitiate procces...";
+			std::cout << "\nOption is not valid, reinitiate procces...\n";
 			Sleep(0.2); system("cls");
 		}
 

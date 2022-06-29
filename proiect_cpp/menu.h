@@ -57,7 +57,7 @@ void MainMenu(SystemClass& mainOBJ, std::vector<std::string>& branchesList)
 					{
 						int rez = EnterPassword();
 						if (rez == 1) break;
-						std::cout << "\tWrong password, you have" << 3 - cnt - 1 << " left tries. \n\tReinitiate procces ";
+						std::cout << "\tWrong password, you have " << 3 - cnt - 1 << " left tries. \n\tReinitiate procces ";
 						Sleep(2000);
 						++cnt;
 					}

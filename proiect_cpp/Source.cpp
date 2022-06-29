@@ -305,8 +305,8 @@ void ReadDataFromFile(SystemClass& mainOBJ,std::vector<std::string>& branchesLis
 
 int main()
 {
-    Utility_loadingScreen();
-    system("cls");
+    //Utility_loadingScreen();
+    //system("cls");
 
     srand(time(0));
     std::vector<std::string>branchesList;
