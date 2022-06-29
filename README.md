@@ -33,12 +33,12 @@ Company registration menu: <br/>
 <br/><br/>
 
 Firm registration process: <br/>
-> - Firm details
-> ![image](https://user-images.githubusercontent.com/92984942/176544989-a95d2b34-45ea-4687-a24c-8caa32137150.png)
+ - Firm details
+ ![image](https://user-images.githubusercontent.com/92984942/176544989-a95d2b34-45ea-4687-a24c-8caa32137150.png)
 <br/>
 
-> - Car details
->  ![image](https://user-images.githubusercontent.com/92984942/176545380-4976d1ef-d0a4-4948-a313-ad219ef2bcdf.png)
+ - Car details
+ ![image](https://user-images.githubusercontent.com/92984942/176545380-4976d1ef-d0a4-4948-a313-ad219ef2bcdf.png)
 <br/>
 
 Client menu: <br/>
