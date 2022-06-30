@@ -123,6 +123,9 @@ at the moment. The customer may also drop a car or more.
 <br>
 <br>
 
+[![](https://tokei.rs/b1/github/AlexandruAndrita/Car-Rental-System?category=lines)](https://github.com/XAMPPRocky/tokei_rs).
+
+
 ![image](https://user-images.githubusercontent.com/92999481/169172665-3f6d4261-fbe1-49f9-a9a7-93ffd468e8a4.png)
 <br>
 <br>
