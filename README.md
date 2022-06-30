@@ -1,8 +1,3 @@
-```
-include <cpp.project>
-include "CarRentalSystem"
-```
-<br/><br/>
 # C++ Project - Car Rental System
 
 The purpose of this project is to streamline how the car rental applications work.
@@ -64,7 +59,7 @@ Another option is making use of the current rented cars. Thus, the client may ta
 ![image](https://user-images.githubusercontent.com/92984942/176601737-26963ad7-84f2-49ec-96f0-2049b6fae2c8.png)
 <br/><br/>
 
-##### *Confirmation message in case a car is dropped:* <br/>
+##### *Confirmation message in case a car has been dropped:* <br/>
 ![image](https://user-images.githubusercontent.com/92984942/176601851-9a81972b-ecab-4422-ab5e-59203b1419ce.png)
 <br/><br/>
 
