@@ -51,6 +51,21 @@ at the moment. The customer may also drop a car or more.
 <br>
 <br>
 
+## Core aspects <img height="52" width="52" src = "https://user-images.githubusercontent.com/92999481/166150746-71e05c9b-3ef1-4179-b659-dbfcf0629fea.png">
+- [x] Loading screen
+- [x] The posibility to create accounts
+- [x] Validations
+- [x] A very complex project
+- [x] Databases for clients, accounts, branches, rented cars, cars stored as CSV
+- [x] The posibility to add new firms
+- [x] The posibility to add a review for a firm
+- [x] The posibility to add rent cars
+- [x] The posibility to change admin password
+- [x] We use an encryption algorithm to hide passwords
+- [x] Used OOP paradigm
+- [x] Team project (2 persons)
+
+<br/><br/><hr/>
 ### <img height="52" width="52" src="https://cdn-icons-png.flaticon.com/512/5361/5361007.png"> Demo - How it works
 #### ***Loading screen***:<br/><br/>
 ![Capture1](https://user-images.githubusercontent.com/92999481/176640926-1e933b16-b8d8-456b-a12d-1a3a4a3e3868.PNG)
